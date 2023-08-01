@@ -1,5 +1,5 @@
 module.exports = {
-    mongoURL : "mongodb://0.0.0.0:27017/oxpertise_backend",
+    mongoURL : "mongodb+srv://amien1410:amien1410@oxpertise1.qljjyvd.mongodb.net/oxpertise",
     host: "localhost",
     port: 5000
 
